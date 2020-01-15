@@ -1,3 +1,4 @@
+.sync/
 *.recipe
 *.sh
 *.bk
